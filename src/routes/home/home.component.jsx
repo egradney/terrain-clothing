@@ -1,4 +1,4 @@
-import { Outlet} from 'react-router-dom';
+
 import Directory from "../../components/directory-container/directory-container.component";
 const Home = () => {
 
